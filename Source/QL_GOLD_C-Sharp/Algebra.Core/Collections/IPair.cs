@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Collections
 {
     public interface IPair<out T1, out T2>

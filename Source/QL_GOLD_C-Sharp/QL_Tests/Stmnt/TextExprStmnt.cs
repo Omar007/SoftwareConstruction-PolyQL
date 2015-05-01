@@ -1,4 +1,4 @@
-﻿using Algebra.QL.Core.Stmnt;
+using Algebra.QL.Core.Stmnt;
 using QL_Tests.Expr;
 
 namespace QL_Tests.Stmnt

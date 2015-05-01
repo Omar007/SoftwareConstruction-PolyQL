@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Print.Expr.Literals
 {
     public class StringLiteral : LiteralExpr<string>, IPrintExpr

@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Factory
 {
     public abstract class FactoryUnion<S, E, T, F1, F2> : IStmntFactory<S, E, T>

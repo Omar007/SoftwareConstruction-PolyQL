@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Grammar Information:
  *
  * Name            : Questionaire Language

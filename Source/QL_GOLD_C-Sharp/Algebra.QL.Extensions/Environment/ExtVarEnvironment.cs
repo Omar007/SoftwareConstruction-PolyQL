@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using Algebra.Core.Collections;
 using Algebra.Core.Environment;

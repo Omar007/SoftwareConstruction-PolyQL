@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using Algebra.Core.Collections;
 using Algebra.QL.Eval.Environment;

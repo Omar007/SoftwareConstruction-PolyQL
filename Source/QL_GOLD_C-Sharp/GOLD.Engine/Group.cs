@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using GOLD.Engine.Enums;
 
 namespace GOLD.Engine

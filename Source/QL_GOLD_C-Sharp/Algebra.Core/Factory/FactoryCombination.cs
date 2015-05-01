@@ -1,4 +1,4 @@
-﻿using Algebra.Core.Collections;
+using Algebra.Core.Collections;
 
 namespace Algebra.Core.Factory
 {

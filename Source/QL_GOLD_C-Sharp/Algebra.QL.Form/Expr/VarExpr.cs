@@ -1,4 +1,4 @@
-﻿using Algebra.QL.Eval.Environment;
+using Algebra.QL.Eval.Environment;
 using Algebra.QL.Eval.Expr;
 using Algebra.QL.Eval.Value;
 using Algebra.QL.Form.Environment;

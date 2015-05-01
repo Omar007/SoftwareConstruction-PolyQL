@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Algebra.QL.Extensions.Factory;
 using Algebra.QL.Extensions.TypeCheck.Expr;
 using Algebra.QL.Extensions.TypeCheck.Expr.Literals;

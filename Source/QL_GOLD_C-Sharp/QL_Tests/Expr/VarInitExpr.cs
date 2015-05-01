@@ -1,4 +1,4 @@
-﻿using Algebra.Core.Expr;
+using Algebra.Core.Expr;
 using QL_Tests.Type;
 
 namespace QL_Tests.Expr

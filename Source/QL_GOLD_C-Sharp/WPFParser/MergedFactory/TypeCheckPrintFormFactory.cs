@@ -1,4 +1,4 @@
-﻿using Algebra.Core.Collections;
+using Algebra.Core.Collections;
 using Algebra.QL.Extensions.Factory;
 using Algebra.QL.Extensions.Form.Factory;
 using Algebra.QL.Form.Expr;

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Algebra.Core.Environment;
 using Algebra.QL.TypeCheck.Type;
 

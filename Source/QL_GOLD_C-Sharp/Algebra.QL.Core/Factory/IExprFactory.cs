@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Core.Factory
 {
     public interface IExprFactory<E, T> : Algebra.Core.Factory.IExprFactory<E, T>

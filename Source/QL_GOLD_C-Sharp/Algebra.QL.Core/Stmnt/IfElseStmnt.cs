@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Core.Stmnt
 {
     public class IfElseStmnt<E, S> : IfStmnt<E, S>

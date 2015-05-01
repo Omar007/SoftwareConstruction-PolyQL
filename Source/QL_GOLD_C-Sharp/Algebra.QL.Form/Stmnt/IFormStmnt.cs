@@ -1,4 +1,4 @@
-﻿using System.Windows;
+using System.Windows;
 using Algebra.QL.Eval.Environment;
 using Algebra.QL.Form.Environment;
 

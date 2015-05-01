@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Term_Frequency_Callisthenics.Data
 {

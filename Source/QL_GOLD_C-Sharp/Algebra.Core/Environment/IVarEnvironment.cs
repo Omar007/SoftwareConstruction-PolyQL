@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Environment
 {
     public interface IVarEnvironment<T>

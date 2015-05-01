@@ -1,4 +1,4 @@
-﻿
+
 namespace QL_Tests.Stmnt
 {
     public class GotoStmnt : ITestStmnt

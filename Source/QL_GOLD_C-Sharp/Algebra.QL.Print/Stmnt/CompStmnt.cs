@@ -1,4 +1,4 @@
-﻿using System.Windows.Documents;
+using System.Windows.Documents;
 using Algebra.QL.Core.Stmnt;
 
 namespace Algebra.QL.Print.Stmnt

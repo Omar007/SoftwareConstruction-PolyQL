@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Collections
 {
     public class Pair<T1, T2> : IPair<T1, T2>

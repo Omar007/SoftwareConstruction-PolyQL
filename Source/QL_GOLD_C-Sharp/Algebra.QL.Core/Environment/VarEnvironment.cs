@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using Algebra.Core.Environment;
 
 namespace Algebra.QL.Core.Environment

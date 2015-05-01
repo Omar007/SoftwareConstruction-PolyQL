@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Expr
 {
     public class BinaryExpr<E> : UnaryExpr<E>

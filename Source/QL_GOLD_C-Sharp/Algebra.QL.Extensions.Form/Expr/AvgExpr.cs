@@ -1,4 +1,4 @@
-﻿using Algebra.QL.Form.Environment;
+using Algebra.QL.Form.Environment;
 using Algebra.QL.Form.Expr;
 using Algebra.QL.Form.Type;
 

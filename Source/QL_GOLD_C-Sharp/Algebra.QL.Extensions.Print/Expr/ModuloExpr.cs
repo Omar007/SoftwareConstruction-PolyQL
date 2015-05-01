@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Windows.Documents;
 using Algebra.Core.Expr;
 using Algebra.QL.Print.Expr;

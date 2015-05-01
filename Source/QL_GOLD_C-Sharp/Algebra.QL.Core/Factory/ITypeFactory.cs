@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Core.Factory
 {
     public interface ITypeFactory<T> : Algebra.Core.Factory.ITypeFactory<T>

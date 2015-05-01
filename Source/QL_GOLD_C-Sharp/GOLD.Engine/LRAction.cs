@@ -1,4 +1,4 @@
-﻿using GOLD.Engine.Enums;
+using GOLD.Engine.Enums;
 
 namespace GOLD.Engine
 {

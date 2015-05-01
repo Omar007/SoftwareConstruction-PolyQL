@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Extensions.Stmnt
 {
     public class RepeatStmnt<E, S>

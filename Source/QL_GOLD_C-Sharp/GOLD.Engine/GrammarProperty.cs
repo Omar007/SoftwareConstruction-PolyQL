@@ -1,4 +1,4 @@
-﻿
+
 namespace GOLD.Engine
 {
     public class GrammarProperty

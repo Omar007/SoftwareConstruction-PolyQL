@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Algebra.QL.Eval.Expr.Literals;
 using Algebra.QL.Extensions.Form.Type;
 using Algebra.QL.Form.Environment;

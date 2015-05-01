@@ -1,4 +1,4 @@
-﻿using Algebra.QL.Eval.Value;
+using Algebra.QL.Eval.Value;
 
 namespace Algebra.QL.Eval.Expr
 {

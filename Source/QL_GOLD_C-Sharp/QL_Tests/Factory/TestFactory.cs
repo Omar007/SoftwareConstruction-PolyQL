@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Algebra.QL.Extensions.Factory;
 using QL_Tests.Expr;
 using QL_Tests.Stmnt;

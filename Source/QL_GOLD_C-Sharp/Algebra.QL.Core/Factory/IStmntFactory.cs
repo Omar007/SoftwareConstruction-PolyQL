@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.QL.Core.Factory
 {
     public interface IStmntFactory<S, E, T> : Algebra.Core.Factory.IStmntFactory<S, E, T>

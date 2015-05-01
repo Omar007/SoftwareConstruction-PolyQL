@@ -1,4 +1,4 @@
-﻿
+
 namespace Term_Frequency_Callisthenics.Data
 {
     public class Word

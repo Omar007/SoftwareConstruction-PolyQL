@@ -1,4 +1,4 @@
-﻿using Algebra.QL.Core.Factory;
+using Algebra.QL.Core.Factory;
 using Algebra.QL.Print.Expr;
 using Algebra.QL.Print.Expr.Literals;
 using Algebra.QL.Print.Stmnt;

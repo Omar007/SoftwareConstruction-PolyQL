@@ -1,4 +1,4 @@
-﻿
+
 namespace QL_Tests.Expr
 {
     public class SumExpr : ITestExpr

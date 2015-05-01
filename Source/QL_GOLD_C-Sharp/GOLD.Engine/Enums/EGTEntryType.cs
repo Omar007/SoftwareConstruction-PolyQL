@@ -1,4 +1,4 @@
-﻿
+
 namespace GOLD.Engine.Enums
 {
     //NOTE: MUST MATCH FILE DEFINITION!!!

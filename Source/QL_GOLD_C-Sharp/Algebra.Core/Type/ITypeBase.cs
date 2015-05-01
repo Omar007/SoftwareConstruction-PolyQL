@@ -1,4 +1,4 @@
-﻿
+
 namespace Algebra.Core.Type
 {
     public interface ITypeBase<T>

@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using Term_Frequency_Callisthenics.Data;
 
 namespace Term_Frequency_Callisthenics
